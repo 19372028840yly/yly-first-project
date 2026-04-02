@@ -53,5 +53,5 @@
 网络环境：建议在稳定网络（WiFi/4G）下使用，避免因弱网导致播放卡顿、加载失败。
 AI 交互：提问时尽量使用清晰、明确的语言，避免模糊表述，以获取更精准的 AI 回复。
 ### 使用步骤
-1.  克隆仓库到本地：执行命令 `git clone https://github.com/你的GitHub用户名/zhangsan-first-project.git`
+1.  克隆仓库到本地：执行命令 `git clone https://github.com/19372028840yly/yly-first-project.git`
 2.  本地修改文件后，通过 `git add`、`git commit`、`git push` 命令将修改同步到远程仓库
